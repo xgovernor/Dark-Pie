@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "at-mah-darker"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# AT_mAh Darker Visual Studio Code Theme
+---
+> This theme is specially developed for the night owl coders!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+__Screenshoot__
+![alt](/themes/screenshoot.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Installation
+1. Open Extensions sidebar panel in VS Code. View → Extensions
+2. Search for Atom Material Theme
+3. Click Install to install it.
+4. Click Reload to reload the editor.
+5. File > Preferences > Color Theme > Atom Material Theme
 
-**Enjoy!**
+# Enjoy!
