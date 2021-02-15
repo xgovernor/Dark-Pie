@@ -3,7 +3,7 @@
 > This theme is specially developed for the night owl coders!
 
 __Screenshoot__
-![alt](/themes/screenshoot.png)
+![alt](https://raw.githubusercontent.com/AbuTaherMuhammad/AT_mAh-Darkerdarker/master/themes/screenshoot.png?token=ALW2JYASGCIPBQ3Y6JOIE6TAFLJFQ)
 
 ### Installation
 1. Open Extensions sidebar panel in VS Code. View → Extensions

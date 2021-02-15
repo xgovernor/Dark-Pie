@@ -3,6 +3,7 @@
     "displayName": "AT_mAh Darker",
     "description": "This a dark template for VS Code editor.",
     "version": "0.0.1",
+    "icon": "image/logo32.png",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -19,6 +20,7 @@
         ]
     },
     "publisher": "AT-mAh",
+    "author": "Abu Taher Muhammad",
     "keywords": ["dark", "atom", "AT_mAh"],
     "license": "ISC"
 }
