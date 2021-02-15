@@ -2,7 +2,7 @@
     "name": "at-mah-darker",
     "displayName": "AT_mAh Darker",
     "description": "This a dark template for VS Code editor.",
-    "version": "0.0.2",
+    "version": "0.0.2.1",
     "icon": "image/logo512.png",
     "engines": {
         "vscode": "^1.52.0"
