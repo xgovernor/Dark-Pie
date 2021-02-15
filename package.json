@@ -1,0 +1,24 @@
+{
+    "name": "at-mah-darker",
+    "displayName": "AT_mAh Darker",
+    "description": "This a dark template for VS Code editor.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AT_mAh Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AT_mAh Darker-color-theme.json"
+            }
+        ]
+    },
+    "author": "Abu Taher Muhammad",
+    "keywords": ["dark", "atom", "AT_mAh"],
+    "license": "ISC"
+}
