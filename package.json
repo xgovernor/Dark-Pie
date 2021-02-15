@@ -1,6 +1,6 @@
 {
-    "name": "at-mah-darker",
-    "displayName": "AT_mAh Darker",
+    "name": "dark-pie",
+    "displayName": "Dark Pie",
     "description": "This a dark template for VS Code editor.",
     "version": "0.0.21",
     "icon": "image/logo512.png",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "AT_mAh Darker",
+                "label": "Dark Pie",
                 "uiTheme": "vs-dark",
-                "path": "./themes/AT_mAh Darker-color-theme.json"
+                "path": "./themes/Dark Pie-color-theme.json"
             }
         ]
     },
