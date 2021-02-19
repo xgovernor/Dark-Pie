@@ -2,7 +2,7 @@
     "name": "dark-pie",
     "displayName": "Dark Pie",
     "description": "This a dark template for VS Code editor.",
-    "version": "0.0.21",
+    "version": "0.0.23",
     "icon": "image/logo512.png",
     "engines": {
         "vscode": "^1.52.0"

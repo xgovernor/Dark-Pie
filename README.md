@@ -1,9 +1,9 @@
-# AT_mAh Darker Visual Studio Code Theme
+# Dark Pie Visual Studio Code Theme
 ---
 > This theme is specially developed for the night owl coders!
 
 __Screenshoot__
-![alt](img/../image/screenshoot.png)
+![alt](https://raw.githubusercontent.com/AbuTaherMuhammad/Dark-Pie/master/image/screenshoot.png?token=ALW2JYCZC24X7XB2VONIW43AF5YKW)
 
 ### Installation
 1. Open Extensions sidebar panel in VS Code. View → Extensions
