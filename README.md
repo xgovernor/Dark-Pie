@@ -3,7 +3,7 @@
 > This theme is specially developed for the night owl coders!
 
 __Screenshoot__
-![alt](https://raw.githubusercontent.com/AbuTaherMuhammad/Dark-Pie/master/image/screenshoot.png?token=ALW2JYCZC24X7XB2VONIW43AF5YKW)
+![Dark Pie - Screenshoot](https://raw.githubusercontent.com/AbuTaherMuhammad/Dark-Pie/f43c5459db68837dd08099b962185e6b1f657ac9/image/screenshoot.png?token=ALW2JYBOZ2WB4INXI5AAN3LAPXPGQ)
 
 ### Installation
 1. Open Extensions sidebar panel in VS Code. View → Extensions
