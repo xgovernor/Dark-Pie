@@ -1,8 +1,8 @@
 {
     "name": "dark-pie",
     "displayName": "Dark Pie",
-    "description": "This a dark template for VS Code editor.",
-    "version": "0.0.23",
+    "description": "A personalized dark theme for VS Code.",
+    "version": "1.0.24",
     "icon": "image/logo512.png",
     "engines": {
         "vscode": "^1.52.0"
@@ -15,12 +15,12 @@
             {
                 "label": "Dark Pie",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark Pie-color-theme.json"
+                "path": "./themes/dark-pie-color-theme.json"
             }
         ]
     },
-    "publisher": "AT-mAh",
+    "publisher": "abutahermuhammad",
     "author": "Abu Taher Muhammad",
-    "keywords": ["dark", "Daek Pie", "AT_mAh", "color-theme", "theme"],
+    "keywords": ["dark", "Dark Pie", "color-theme", "theme", "abutahermuhammad.com"],
     "license": "ISC"
 }
