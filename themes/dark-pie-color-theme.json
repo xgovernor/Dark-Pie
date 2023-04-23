@@ -4,8 +4,9 @@
 	"author": "abutahermuhammad",
 	"colors": {
 		// Activity Bar
-		"activityBar.background": "#21252b",
-		"activityBar.border": "#181a1f",
+		// "activityBar.background": "#21252b",
+		"activityBar.background": "#1a222e",
+		"activityBar.border": "#4b5365a6",
 		"activityBar.dropBorder": "#d6d9df",
 		"activityBar.foreground": "#d6d9df",
 		"activityBarBadge.background": "#1a222e",
@@ -32,6 +33,7 @@
 		"editor.background": "#1a222e",
 		"editor.findMatchBackground": "#1a222e",
 		"editor.findMatchBorder": "#4b5365a6",
+		// "editor.findMatchHighlightBackground": "#518fff36",
 		"editor.findMatchHighlightBackground": "#518fff36",
 		"editor.findMatchHighlightBorder": "#ffffff00",
 		"editor.findRangeHighlightBackground": "#518fff36",
@@ -191,7 +193,8 @@
 		"sideBarSectionHeader.foreground": "#d7dae0",
 		"sideBarTitle.foreground": "#d7dae0",
 		
-		"statusBar.background": "#1a222e",
+		// "statusBar.background": "#1a222e",
+		"statusBar.background": "#2d333b",
 		"statusBar.border": "#333842",
 		"statusBar.debuggingBackground": "#ff634788",
 		"statusBar.debuggingBorder": "#181a1f",
@@ -316,7 +319,7 @@
 		//"diffEditor.diagonalFill": "#cccccc33",
 
 		//"editor.focusedStackFrameHighlightBackground": "#7abd7a4d",
-		"editor.foldBackground": "#4b5365a6",
+		"editor.foldBackground": "#2d333b",
 		//"editor.linkedEditingBackground": "#ff00004d",
 		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
