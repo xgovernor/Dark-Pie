@@ -1,15 +1,34 @@
-# Dark Pie Visual Studio Code Theme
----
-> This theme is specially developed for the night owl coders!
+<div align="center">
+
+<img src="image/256.png" width="200" />
+
+# Dark Pie
+A personalized dark theme for Visual Studio Code Editor
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/github-abutahermuhammad-4b5365a6.svg?style=for-the-badge&colorB=6494ed"/>
+<img src="https://vsmarketplacebadge.apphb.com/downloads/AT-mAh.dark-pie.svg?colorB=0f141b&style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/ozkanonur/vscode-deepdark-material?colorB=0f141b&style=for-the-badge" alt="License"/>
+</p>
+<br/>
+
+## Theme Preview
+<p align="center">
 
 __Screenshoot__
 ![Dark Pie - Screenshoot](https://raw.githubusercontent.com/AbuTaherMuhammad/Dark-Pie/master/image/screenshoot.png?token=ALW2JYCCZOHNH6TQDXZ26ZLAP3CHU)
+</p>
 
-### Installation
-1. Open Extensions sidebar panel in VS Code. View → Extensions
-2. Search for Atom Material Theme
-3. Click Install to install it.
-4. Click Reload to reload the editor.
-5. File > Preferences > Color Theme > Atom Material Theme
+<br/>
+
+## Configuration
+
+```js
+{
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth"
+}
+```
 
 # Enjoy!
