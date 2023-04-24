@@ -15,3 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - List tree hover background added.
 - `package.json` updated.
 - Issue template added.
+- `LISENCE.md` added.

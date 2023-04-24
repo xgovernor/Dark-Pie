@@ -6,3 +6,4 @@ Foreground==> 696f7a
 
 <!-- NEW -->
 Normal Text ==> #768390
+Dark: #0f141b

@@ -8,18 +8,18 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "_metadata": {
+        "publisherDisplayName": "Abu Taher Muhammad",
+        "publisherId": "abutahermuhammad"
+    },
+    "homepage": "https://github.com/abutahermuhammad/dark-pie/blob/master/README.md",
+    "license": "MIT",
     "categories": [
         "Themes"
     ],
-    "contributes": {
-        "themes": [
-            {
-                "id": "dark-pie",
-                "label": "Dark Pie",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark-pie-color-theme.json"
-            }
-        ]
+    "galleryBanner": {
+        "color": "#080808",
+        "theme": "dark"
     },
     "repository": {
         "type": "git",
@@ -31,6 +31,19 @@
       "author": {
         "name": "Abu Taher Muhammad"
       },
-    "keywords": ["dark", "Dark Pie", "color-theme", "theme", "abutahermuhammad.com"],
-    "license": "ISC"
+    "keywords": ["deep dark", "dark", "Dark Pie", "color-theme", "theme", "abutahermuhammad.com"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Pie | Default Version",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-pie-default-theme.json"
+            },
+            {
+                "label": "Dark Pie | Deep dark version",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-pie-deep-theme.json"
+            }
+        ]
+    }
 }
