@@ -3,6 +3,7 @@
     "displayName": "Dark Pie",
     "description": "A personalized dark theme for VS Code.",
     "version": "1.0.24",
+    "publisher": "abutahermuhammad",
     "icon": "image/logo512.png",
     "engines": {
         "vscode": "^1.52.0"
@@ -13,14 +14,23 @@
     "contributes": {
         "themes": [
             {
+                "id": "dark-pie",
                 "label": "Dark Pie",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-pie-color-theme.json"
             }
         ]
     },
-    "publisher": "abutahermuhammad",
-    "author": "Abu Taher Muhammad",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abutahermuhammad/Dark-Pie.git"
+      },
+      "bugs": {
+        "url": "https://github.com/abutahermuhammad/Dark-Pie/issues"
+      },
+      "author": {
+        "name": "Abu Taher Muhammad"
+      },
     "keywords": ["dark", "Dark Pie", "color-theme", "theme", "abutahermuhammad.com"],
     "license": "ISC"
 }

@@ -10,9 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 
 
 ## Version 1.0.24 - 2017-06-20
-
-### Fixed
 - Replaced ` ` with `-` of themes file name.
-
-### Improved
 - Activity bar's `bacground`, `border` changed.
+- List tree hover background added.
+- `package.json` updated.
+- Issue template added.
